@@ -1,0 +1,1 @@
+{"minecraft:recipe_shaped": {"pattern": ["A  ", "BCB", "BCB"], "tags": ["crafting_table"], "description": {"identifier": "mwh_pam:quern_0"}, "key": {"A": {"item": "minecraft:stick", "data": 0}, "C": {"item": "minecraft:stone_pressure_plate", "data": 0}, "B": {"item": "minecraft:stone", "data": 0}}, "result": {"count": 1, "item": "mwh_pam:quern"}}, "format_version": "1.12"}

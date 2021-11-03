@@ -1,0 +1,13 @@
+
+                {
+                    "format_version": "1.10",
+                    "minecraft:item": {
+                        "components": {
+                            "minecraft:icon": "mwh_pam:churn"
+                        },
+                        "description": {
+                            "identifier": "mwh_pam:churn"
+                        }
+                    }
+                }
+            

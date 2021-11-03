@@ -1,0 +1,39 @@
+{
+            "resource_pack_name": "vanilla",
+            "texture_data": {
+                
+    "mwh_pam:sunflowerseeds": {
+        "textures": "textures/items/sunflowerseeds"
+    }
+    ,
+    "mwh_pam:quern": {
+        "textures": "textures/items/quern"
+    }
+    ,
+    "mwh_pam:oven": {
+        "textures": "textures/items/oven"
+    }
+    ,
+    "mwh_pam:churn": {
+        "textures": "textures/items/churn"
+    }
+    ,
+    "mwh_pam:queenbee": {
+        "textures": "textures/items/queenbee"
+    }
+    ,
+    "mwh_pam:grub": {
+        "textures": "textures/items/grub"
+    }
+    ,
+    "mwh_pam:royaljelly": {
+        "textures": "textures/items/royaljelly"
+    }
+    ,
+    "mwh_pam:cookedgrub": {
+        "textures": "textures/items/cookedgrub"
+    }
+    
+            },
+            "texture_name": "atlas.items"
+        }

@@ -1,0 +1,1 @@
+{"minecraft:recipe_shaped": {"pattern": ["AA", "  "], "tags": ["crafting_table"], "description": {"identifier": "mwh_pam:sunflowerseeds_0"}, "key": {"A": {"item": "minecraft:double_plant", "data": 0}}, "result": {"count": 1, "item": "mwh_pam:sunflowerseeds"}}, "format_version": "1.12"}
