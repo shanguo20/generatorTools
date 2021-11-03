@@ -1,1 +1,0 @@
-{"minecraft:recipe_shaped": {"pattern": ["A ", "  "], "tags": ["crafting_table"], "description": {"identifier": "mwh_pam:royaljelly_0"}, "key": {"A": {"item": "mwh_pam:queenbee", "data": 0}}, "result": {"count": 1, "item": "mwh_pam:royaljelly"}}, "format_version": "1.12"}

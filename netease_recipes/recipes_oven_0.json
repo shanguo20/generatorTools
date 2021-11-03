@@ -1,1 +1,0 @@
-{"minecraft:recipe_shaped": {"pattern": ["ABA", "ACA", "AAA"], "tags": ["crafting_table"], "description": {"identifier": "mwh_pam:oven_0"}, "key": {"A": {"item": "minecraft:iron_ingot", "data": 0}, "C": {"item": "minecraft:furnace", "data": 0}, "B": {"item": "minecraft:iron_bars", "data": 0}}, "result": {"count": 1, "item": "mwh_pam:oven"}}, "format_version": "1.12"}

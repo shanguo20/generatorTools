@@ -1,1 +1,0 @@
-{"minecraft:recipe_shaped": {"pattern": [" A ", "BAB", "BBB"], "tags": ["crafting_table"], "description": {"identifier": "mwh_pam:churn_0"}, "key": {"A": {"item": "minecraft:stick", "data": 0}, "B": {"item": "minecraft:planks", "data": 0}}, "result": {"count": 1, "item": "mwh_pam:churn"}}, "format_version": "1.12"}
